@@ -17,7 +17,9 @@
 ## Neimplementirano:
    - nedostaje mogućnost da profesor odobrni zahtjev za termin instrukcije
    - ove napomene na kraju readme vašeg projekta sam prekasno vidio, tako da se nažalost mogu kreirati korisnici s istim mail adresama, te nema restrikcija na broj instrukcija za dogovoriti
- 
+
+## Upute za pokretanje
+U frontend pokrenut i vsc-u, npm run dev komanda (localhost:5173 je stranica), prije toga backend pokrenuti u vs sa komandom dotnet run (localhost:5000/api je url backemda) (mora se nalaziti u unutrašnjem dotNetInstrukcije folderu)
 Sve u svemu jedno izvrsno iskustvo, volio bih da je bilo još malo više vremena (jer zbog obaveza nisam se mogao maksimlano fokusirati) i siguran sam da bi rezultati stranice bili još i bolji
 Velikeee pohvale organizatorima na odličnim predavanjima i trudu. Baš se vidi da ste dali sve od sebe. Radoionica je bilo vrlo korisna i bilo mi je užitak biti jedan od polaznika! :)
 
