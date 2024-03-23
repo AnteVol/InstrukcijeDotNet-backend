@@ -25,4 +25,6 @@ U frontend pokrenut i vsc-u, npm run dev komanda (localhost:5173 je stranica), p
 Sve u svemu jedno izvrsno iskustvo, volio bih da je bilo još malo više vremena (jer zbog obaveza nisam se mogao maksimlano fokusirati) i siguran sam da bi rezultati stranice bili još i bolji
 Velikeee pohvale organizatorima na odličnim predavanjima i trudu. Baš se vidi da ste dali sve od sebe. Radoionica je bilo vrlo korisna i bilo mi je užitak biti jedan od polaznika! :)
 
+Ako ima neki mail, slobodno posaljite mail na ante.volarevic@fer.hr
+
 Link na primjer korištenja stranice za studenta i profesora: https://drive.google.com/drive/folders/1i39UrwQHpefUKliwjPqCpVVha_AZtxZK
