@@ -1,6 +1,6 @@
 # InstrukcijeDotNet backend
 
-##Implementirano:
+## Implementirano:
 - dodane sve putanje za dohvaćanj, i stavljanje entitete te pu i delete putanje samo za stvari koje su mi trebale za implementaciju
 - povezano sa bazom podataka, uspješno spremanje i dohvaćanje podataka - korišteni entiteti
 - baza se sastoji od tablica: students, professors, instructionDates, subjects i professorsubjects
@@ -14,7 +14,7 @@
    - dodan graf koji prikazuje profesore sa najviše održanih/zakazanih instrukcija
    - dodane postavke u kojima se može uspješno uređivati podaci korisnika i dodati slika profila (koristio sam linkove slika s google)
    - omogućeno da samo profesor može kreirati nove predmete i da se oni također naknadno mogu pridružiti nekom predmetu
- ##Neimplementirano:
+## Neimplementirano:
    - nedostaje mogućnost da profesor odobrni zahtjev za termin instrukcije
    - ove napomene na kraju readme vašeg projekta sam prekasno vidio, tako da se nažalost mogu kreirati korisnici s istim mail adresama, te nema restrikcija na broj instrukcija za dogovoriti
  
